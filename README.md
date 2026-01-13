@@ -1,2 +1,2 @@
-# Sampercy25.github.io
+# sampercy25.github.io
 practice class webpage
